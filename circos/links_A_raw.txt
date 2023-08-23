@@ -1,0 +1,1 @@
+MHCIIalleles 5 6 pathogens 8 9 corr=1000
