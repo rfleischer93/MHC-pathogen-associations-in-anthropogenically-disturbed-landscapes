@@ -1,0 +1,189 @@
+
+[Profile] 
+
+	Title="MHC sequences of Proechimys semispinosus across 3 landscape types in the Panama Canal Region"
+
+	NbSamples=3                 
+	DataType=FREQUENCY         	
+	GenotypicData=0
+	GameticPhase=1  # - {0, 1}
+	LocusSeparator= WHITESPACE             
+ 	MissingData="?"	
+	Frequency= ABS
+
+[Data] 
+
+
+[[Samples]] 
+
+	SampleName="A" 
+	SampleSize=233
+	SampleData= {
+Prse.DRB.01	37
+Prse.DRB.02	30
+Prse.DRB.03	22
+Prse.DRB.04	12
+Prse.DRB.05	14
+Prse.DRB.06	23
+Prse.DRB.07	13
+Prse.DRB.08	14
+Prse.DRB.09	15
+Prse.DRB.10	15
+Prse.DRB.11	16
+Prse.DRB.12	6
+Prse.DRB.13	4
+Prse.DRB.14	5
+Prse.DRB.15	0
+Prse.DRB.16	0
+Prse.DRB.17	0
+Prse.DRB.18	0
+Prse.DRB.19	0
+Prse.DRB.20	1
+Prse.DRB.21	0
+Prse.DRB.22	1
+Prse.DRB.23	0
+Prse.DRB.25	0
+Prse.DRB.26	0
+Prse.DRB.27	0
+Prse.DRB.28	2
+Prse.DRB.29	0
+Prse.DRB.31	0
+Prse.DRB.32	0
+Prse.DRB.38	1
+Prse.DRB.39	0
+Prse.DRB.40	0
+Prse.DRB.43	0
+Prse.DRB.44	0
+Prse.DRB.45	0
+Prse.DRB.47	1
+Prse.DRB.48	0
+Prse.DRB.49	0
+Prse.DRB.52	0
+Prse.DRB.54	0
+Prse.DRB.55	0
+Prse.DRB.56	0
+Prse.DRB.58	0
+Prse.DRB.70	1
+Prse.DRB.71	0
+Prse.DRB.78	0
+Prse.DRB.79	0
+
+
+
+	} 
+
+	
+
+	SampleName="C" 
+	SampleSize=389
+	SampleData= {
+Prse.DRB.01	61
+Prse.DRB.02	42
+Prse.DRB.03	30
+Prse.DRB.04	22
+Prse.DRB.05	27
+Prse.DRB.06	28
+Prse.DRB.07	27
+Prse.DRB.08	30
+Prse.DRB.09	16
+Prse.DRB.10	11
+Prse.DRB.11	13
+Prse.DRB.12	14
+Prse.DRB.13	7
+Prse.DRB.14	2
+Prse.DRB.15	17
+Prse.DRB.16	3
+Prse.DRB.17	8
+Prse.DRB.18	6
+Prse.DRB.19	4
+Prse.DRB.20	1
+Prse.DRB.21	1
+Prse.DRB.22	1
+Prse.DRB.23	2
+Prse.DRB.25	5
+Prse.DRB.26	0
+Prse.DRB.27	0
+Prse.DRB.28	0
+Prse.DRB.29	1
+Prse.DRB.31	1
+Prse.DRB.32	2
+Prse.DRB.38	0
+Prse.DRB.39	1
+Prse.DRB.40	1
+Prse.DRB.43	0
+Prse.DRB.44	1
+Prse.DRB.45	1
+Prse.DRB.47	0
+Prse.DRB.48	0
+Prse.DRB.49	0
+Prse.DRB.52	0
+Prse.DRB.54	1
+Prse.DRB.55	0
+Prse.DRB.56	1
+Prse.DRB.58	1
+Prse.DRB.70	0
+Prse.DRB.71	0
+Prse.DRB.78	0
+Prse.DRB.79	0
+
+	
+	} 
+	
+	
+
+	SampleName="I" 
+	SampleSize=409
+	SampleData= {
+Prse.DRB.01	53
+Prse.DRB.02	59
+Prse.DRB.03	45
+Prse.DRB.04	39
+Prse.DRB.05	35
+Prse.DRB.06	27
+Prse.DRB.07	13
+Prse.DRB.08	6
+Prse.DRB.09	21
+Prse.DRB.10	14
+Prse.DRB.11	6
+Prse.DRB.12	8
+Prse.DRB.13	12
+Prse.DRB.14	19
+Prse.DRB.15	22
+Prse.DRB.16	6
+Prse.DRB.17	3
+Prse.DRB.18	0
+Prse.DRB.19	0
+Prse.DRB.20	1
+Prse.DRB.21	0
+Prse.DRB.22	1
+Prse.DRB.23	1
+Prse.DRB.25	1
+Prse.DRB.26	4
+Prse.DRB.27	1
+Prse.DRB.28	0
+Prse.DRB.29	0
+Prse.DRB.31	0
+Prse.DRB.32	0
+Prse.DRB.38	1
+Prse.DRB.39	2
+Prse.DRB.40	0
+Prse.DRB.43	2
+Prse.DRB.44	0
+Prse.DRB.45	0
+Prse.DRB.47	0
+Prse.DRB.48	1
+Prse.DRB.49	1
+Prse.DRB.52	1
+Prse.DRB.54	0
+Prse.DRB.55	1
+Prse.DRB.56	0
+Prse.DRB.58	0
+Prse.DRB.70	0
+Prse.DRB.71	1
+Prse.DRB.78	1
+Prse.DRB.79	1
+
+	
+	} 
+	
+
