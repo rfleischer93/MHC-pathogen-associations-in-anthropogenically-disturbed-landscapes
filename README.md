@@ -1,4 +1,4 @@
-This repository contains R code and data for our manuscript:
+This repository contains R code and data for our manuscript (submitted):
 
 "__Hidden zoonotic risk: immunogenetic-pathogen networks shrink in a generalist rodent inhabiting disturbed landscapes__"
 
