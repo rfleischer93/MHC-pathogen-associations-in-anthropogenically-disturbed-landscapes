@@ -1,0 +1,43 @@
+## Circos perl script
+
+## Start by opening perl command line
+
+# move to the directory where circos was installed 
+cd circos-0.69-9
+
+# start circos
+perl bin\circos
+
+# check if any module is missing
+perl bin\circos -modules
+
+cd bin
+
+
+###################################### MHC alleles-pathogens per landscape ######################################
+
+# draw the links in the continuous forest (C)
+circos -conf bin/links_C.conf -outputfile links_C_allele.png 
+
+
+# draw the links on forested islands (I)
+circos -conf bin/links_I.conf -outputfile links_I_allele.png
+
+
+# draw the links in the forest patches in agricultural matrix (A)
+circos -conf bin/links_A.conf -outputfile links_A_allele.png 
+
+
+
+###################################### MHC STs-pathogens per landscape ######################################
+
+# draw the links in the continuous forest (C)
+circos -conf bin/links_C_st.conf -outputfile links_C_st.png
+
+
+# draw the links on forested islands (I)
+circos -conf bin/links_I_st.conf -outputfile links_I_st.png 
+
+
+# draw the links in the forest patches in agricultural matrix (A)
+circos -conf bin/links_A_st.conf -outputfile links_A_st.png 
